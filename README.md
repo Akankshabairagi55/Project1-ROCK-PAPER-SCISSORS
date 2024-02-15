@@ -1,1 +1,2 @@
 # Project1-ROCK-PAPER-SCISSORS
+This Python code implements a Rock, Paper, Scissors game using emojis. It tracks wins, ties, and losses, allowing players to input choices. The computer's choice is randomized. After specified rounds, the winner is declared, with an option to play again or exit. Emojis: ✊🖐️✌️ represent choices.
